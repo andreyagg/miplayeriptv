@@ -1,0 +1,12 @@
+{
+  "name": "apptv",
+  "version": "1.0.0",
+  "description": "AppTV - Premium IPTV Interface",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
